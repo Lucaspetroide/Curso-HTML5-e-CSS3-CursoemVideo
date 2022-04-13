@@ -125,7 +125,7 @@ footer {
 
 .header-p {
     color: #ffffff;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     font-family: var(--ff-defalt);
     font-size: 1.2em;
     max-width: 500px;
